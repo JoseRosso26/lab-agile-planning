@@ -17,6 +17,6 @@ assignees: ''
  ### Criterios de aceptación
  
  ```gherkin
- Dado que [algo de contexto]
+ Dado [algo de contexto]
  Cuando [se adopten determinadas medidas]
  Entonces [se observa el resultado de la acción]
